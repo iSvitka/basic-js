@@ -27,6 +27,3 @@ function createDreamTeam(members) {
 module.exports = {
   createDreamTeam
 };
-
-
-createDreamTeam(['Matt', 'Ann', 'Dmitry', 'Max']);
